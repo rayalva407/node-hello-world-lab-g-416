@@ -1,3 +1,3 @@
 function helloWorld() {
-  returns "Hello World"
+  return "Hello World"
 }
